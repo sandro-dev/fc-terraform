@@ -1,0 +1,6 @@
+  Hello Terraform! 
+  I'm Sandro Santos, a fullstack software engineer 
+  This is my content from terraform.tfvars 
+  this came from oh my zsh
+  hello world
+  xpto

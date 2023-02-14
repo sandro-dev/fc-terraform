@@ -1,0 +1,1 @@
+content="This is my content from terraform.tfvars"
